@@ -1,4 +1,4 @@
-# buscaminas-terminal
+# Buscaminas
 
 Este programa permite jugar buscaminas clásico desde la terminal utilizando python básico, funciona a base de comandos de teclado y un sistema coordenado, puede personalizarse desde el archivo main.py, pudiendo tener un máximo de 26 filas (pues éstas son identificadas con letras), y un número infinito de columnas. Al inicio del juego se puede elegir obtener una ayuda inicial, con la que se hace clic sobre una casilla en blanco que descubre varias casillas.
 
